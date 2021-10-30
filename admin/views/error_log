@@ -1,0 +1,74 @@
+[27-Apr-2020 10:13:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[27-Apr-2020 10:15:30 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/stsadmin/public_html/admin/views/organization.php on line 165
+[27-Apr-2020 21:50:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[23-Jun-2020 07:30:37 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/organizationJobs.php on line 135
+[23-Jun-2020 07:42:46 UTC] PHP Fatal error:  Call to undefined method Queries::get_All_Candidates() in /home/stsadmin/public_html/admin/views/currentCandidates.php on line 181
+[23-Jun-2020 07:42:50 UTC] PHP Fatal error:  Call to undefined method Queries::get_All_Candidates() in /home/stsadmin/public_html/admin/views/currentCandidates.php on line 181
+[24-Jun-2020 09:17:21 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/organizationTenders.php on line 154
+[24-Jun-2020 09:17:45 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/organizationUsers.php on line 182
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Name' in /home/stsadmin/public_html/admin/views/edit.php on line 103
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Cellno' in /home/stsadmin/public_html/admin/views/edit.php on line 110
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'CNIC' in /home/stsadmin/public_html/admin/views/edit.php on line 117
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Address' in /home/stsadmin/public_html/admin/views/edit.php on line 126
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 135
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 136
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 143
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 144
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Name' in /home/stsadmin/public_html/admin/views/edit.php on line 103
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Cellno' in /home/stsadmin/public_html/admin/views/edit.php on line 110
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'CNIC' in /home/stsadmin/public_html/admin/views/edit.php on line 117
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Address' in /home/stsadmin/public_html/admin/views/edit.php on line 126
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 135
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 136
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 143
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 144
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Name' in /home/stsadmin/public_html/admin/views/edit.php on line 103
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Cellno' in /home/stsadmin/public_html/admin/views/edit.php on line 110
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'CNIC' in /home/stsadmin/public_html/admin/views/edit.php on line 117
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Address' in /home/stsadmin/public_html/admin/views/edit.php on line 126
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 135
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 136
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 143
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 144
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Name' in /home/stsadmin/public_html/admin/views/edit.php on line 103
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Cellno' in /home/stsadmin/public_html/admin/views/edit.php on line 110
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'CNIC' in /home/stsadmin/public_html/admin/views/edit.php on line 117
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Address' in /home/stsadmin/public_html/admin/views/edit.php on line 126
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 135
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 136
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 143
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 144
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Name' in /home/stsadmin/public_html/admin/views/edit.php on line 103
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Cellno' in /home/stsadmin/public_html/admin/views/edit.php on line 110
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'CNIC' in /home/stsadmin/public_html/admin/views/edit.php on line 117
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Address' in /home/stsadmin/public_html/admin/views/edit.php on line 126
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 135
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'Start_date' in /home/stsadmin/public_html/admin/views/edit.php on line 136
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 143
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  Illegal string offset 'End_date' in /home/stsadmin/public_html/admin/views/edit.php on line 144
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/edit.php on line 187
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/edit.php on line 259
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/edit.php on line 315
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/edit.php on line 355
+[24-Jun-2020 18:02:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/stsadmin/public_html/admin/views/edit.php on line 435
+[19-Jul-2020 16:37:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[24-Jul-2020 14:50:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[24-Jul-2020 14:51:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[24-Jul-2020 14:51:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[09-Aug-2020 20:21:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[09-Aug-2020 20:22:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[18-Aug-2020 21:31:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[19-Aug-2020 02:05:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[19-Aug-2020 02:05:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[19-Aug-2020 02:05:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[23-Aug-2020 18:13:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[23-Aug-2020 18:13:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[23-Aug-2020 18:13:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[08-Sep-2020 22:28:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[08-Sep-2020 22:29:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[18-Sep-2020 04:47:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[22-Sep-2020 23:47:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[22-Sep-2020 23:47:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[22-Sep-2020 23:47:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[09-Oct-2020 00:14:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
+[09-Oct-2020 00:14:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'stsadmin'@'localhost' (using password: YES) in /home/stsadmin/public_html/admin/database/config.php on line 11
